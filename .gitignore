@@ -1,0 +1,8 @@
+tmp/*
+data/*
+grab/*
+.idea/
+*.iml
+model/*
+__*
+__pycache__/

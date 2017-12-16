@@ -1,0 +1,10 @@
+2017-12-17 05:05:30,924 $ img2recs $ enter
+2017-12-17 05:05:30,939 $ to_grey $ enter
+2017-12-17 05:05:31,255 $ to_grey $ exit
+2017-12-17 05:05:31,262 $ groups $ enter
+2017-12-17 05:05:31,342 $ groups $ end
+2017-12-17 05:05:31,363 $ img2recs $ end
+2017-12-17 05:05:31,642 $ build_words $ enter
+2017-12-17 05:05:31,642 $ build_words $ end
+2017-12-17 05:05:31,643 $ sort_words $ enter
+2017-12-17 05:05:31,643 $ sort_words $ end
